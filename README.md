@@ -19,6 +19,14 @@ I am a Developer who is passionate about stuff Data Science and Machine Learning
 </p>
 
 </details>
+<!---
+## Data Science
+
+
+### [Boston Airbnb Price Estimator](https://zhaoyunma.medium.com/boston-airbnb-listing-price-estimator-ea34e5370395)
+
+<img src="DS_project/project_2.png?raw=true"/>
+--->
 
 ---
  ## Check my blogs
