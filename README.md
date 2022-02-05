@@ -1,6 +1,6 @@
 ## Hi 👋 I am Mayank!
 
-I am a Developer who is passionate about stuff Data Science and Machine Learning. I an looking for opportunities in Data Science.
+I am a Developer who is passionate about stuff Data Science and Machine Learning. I am looking for opportunities in Data Science.
 
 - 🔭 I’m currently working on a Project which is developed using Danjgo framework.
 
