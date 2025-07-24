@@ -6,7 +6,7 @@ I am a Developer who is passionate about stuff Data Science and Machine Learning
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning techniques.
 
-- 📫 How to reach me: porwal.mayank075@gmail.com
+- 📫 How to reach me: mayankownsthis@gmail.com
 
 ## 💻 Some stats
 
